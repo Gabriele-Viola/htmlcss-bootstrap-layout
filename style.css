@@ -1,0 +1,16 @@
+.debug *{
+    border: 1px dashed;
+}
+.firstsection{
+    .col-lg-4{
+        background-color: var(--bs-gray-200);
+        color: var(--bs-dark);
+
+    }
+}
+.thirdsection{
+    .col-6:last-child{
+        background-color: var(--bs-gray-200);
+        color: var(--bs-dark);
+    }
+}
